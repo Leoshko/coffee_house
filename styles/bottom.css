@@ -1,0 +1,19 @@
+
+#bottom-part-continer {
+    position: absolute;
+    top: 714px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;  
+    padding: 0;
+}
+
+#bottom-part-img {
+    width: 1170px;
+    height: 150px;
+}
+
+/* .bottom-part-text {
+
+} */

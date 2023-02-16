@@ -1,0 +1,53 @@
+#navbar-logo {
+    position: relative;
+    float: left;
+    left: 150px;
+    width: 100px;
+    height: 104px;
+    top: 10px;
+}
+
+#navbar {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    z-index: 999;
+    width: 90%;
+    padding: 50px;
+}
+
+#nav-items {
+    align-items: center;
+}
+
+#nav-items li {
+    margin-left: -15px;
+    margin-right: 50px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 15pt;
+    letter-spacing: 2px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav li {
+    float: left;
+}
+
+nav a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #484039;
+    font-size: 13pt;
+}
+
+form {
+    position: relative;
+  }
+
